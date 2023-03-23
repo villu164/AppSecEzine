@@ -52,8 +52,7 @@ Description: How to write shellcode for beginners through to advanced.
 '  ╚═╝└─┘└─┘└─┘┴└─┴ ┴  ┴ 
 '  All about security issues/problems.
 
-
-URL: http://bugscollector.com/tricks/12/
+URL defanged: hxxp[://]bugscollector[.]com/tricks/12/
 Description: Valid png image which can execute as PHP file.
 
 URL: http://blog.sucuri.net/2014/02/new-iframe-injections-leverage-png-image-metadata.html
