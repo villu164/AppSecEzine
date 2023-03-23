@@ -52,7 +52,7 @@ Description: Multi-POST Cross-Site Request Forgery.
 URL: http://7h3ram.github.io/
 Description: 7h3rAm's InfoSec Ramblings. (Nice Learning Resource!)
 
-URL: http://blog.cassidiancybersecurity.com/post/2014/02/Bitcrypt-broken
+URL: https://web.archive.org/web/20140222113333/http://blog.cassidiancybersecurity.com/post/2014/02/Bitcrypt-broken
 Description: Bitcrypt broken, Bitcrypt ransomware author confused bytes and digits, ended up with a trivially-factorable 464 bit key.
 
 URL: http://www.welivesecurity.com/2014/02/21/an-in-depth-analysis-of-linuxebury/
